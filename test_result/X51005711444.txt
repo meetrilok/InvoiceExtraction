@@ -1,0 +1,33 @@
+total:
+2.20 4.40 sr
+0.20 0.40 sr
+amount(rm) tax(rm)
+gst reg no: 001335787520
+4.54
+restoran wan sheng
+4.54
+0.26
+seksyen 9 bandar mahkota cheras
+2 x
+tax invoice
+0.26
+inm no.: 1054250 cashier: thandar
+2 x
+4.80
+desorption 0y uonrige tomal tax
+cham (b)
+cash :
+gst summary
+sr
+date: 21-03-2018 11:42:20
+take away
+4.80
+4.80
+002043319-w
+gst payable (6%):
+total (excluding gst):
+(@ 6%)
+total qty: 4
+no.2 jalan temenggung 19/9
+43200 cheras selangor
+total (inclusive of gst):

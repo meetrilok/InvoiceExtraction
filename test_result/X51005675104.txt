@@ -1,0 +1,47 @@
+total :
+syarikat perniagaan gin kee
+discount :
+gst id: 000750673920
+180.00
+total gst
+10.80
+0.00
+change :
+user
+0.00
+total sales (excluding gst)
+3 1 8 ot oll
+simplified tax invoice
+cs00012944 dale 25/012018
+taxcode :y amira iaxira
+setapak
+cash : 190.80
+10.80
+:53200 kuala lumpur.
+no 290 jalan air panas
+cash
+item
+toa sauesincluswve oi(gst): 1080
+180.00
+ sr
+3 6360 19080 sr
+cashier
+salesperson:
+total qty: 3
+tel : 03-40210276
+qny spice amount tax
+ref. :
+(81109-a)
+1080
+6
+goods soldare not returnable thank you
+doc no.
+rounding :
+1007
+time: 14:29:00
+ 12mm 4/88 plywood
+180.00
+190.80
+igst summary
+0%40
+0.00

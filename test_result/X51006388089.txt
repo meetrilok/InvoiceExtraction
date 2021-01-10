@@ -1,0 +1,35 @@
+receipt #: cs008136502 date 2105/2017
+salesperson :
+rounding 000
+95211/00434 400 055 500
+tel: 012-9719498
+item
+taxk
+zrlikaw bilis pek boot puth 100g
+thank you.
+time: 07:50:00
+0.00
+101
+counter :
+qty uap amount
+i =/
+0.00
+108.00
+yonyg cen enterprse
+9 jalan subang jasa 3
+srefei yaw brano young corn 425g 1
+goods sold are not returnable
+956220500307 1 5000 5000
+3.00 s
+0.00
+gst no: 001147981824
+cp
+cash
+change
+total quantity
+sub-total 105.00
+40150 shah alam selangor.
+total 108.00
+cash
+gst
+disc

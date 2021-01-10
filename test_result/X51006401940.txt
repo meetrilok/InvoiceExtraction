@@ -1,0 +1,46 @@
+salesperson:
+ref. :
+cashier user
+tax invoice
+receipl # cs00058574
+15.40
+1 gst summary
+15.40
+pentel correctiompen 18m:z1c1-m
+aritange stationers e print sdn bhd
+tot qty:
+cash
+time: 15:23:00
+3474370026019
+total sales (excluding gst)
+0.87
+0.00
+date: 10/04/2017
+cash
+gst id : 001725239296
+tel: 0377271129 fay: 03-7278929
+goods soldare not returnable thank you.
+14.53
+34.60
+0.00
+discoun:
+item
+(1122327-u)
+oy sprice amount iax
+total :
+total sales(inclusive oigst:
+7.70
+1540 sr
+47400 petaling jaya
+0.87 1
+total gst
+50.00
+14.53
+1 sr
+0.87 1
+4 jalan ss2158 damaisara utama
+rounding
+14.53
+9s5ast
+6
+tiaxcode m anrm) tax(rm!

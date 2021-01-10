@@ -1,0 +1,48 @@
+payment type: cast 
+0.00
+10.75
+tax invoice
+179 25 10.75
+receive by
+no 142 jalan sk 116 serikenbangan
+bet rounding
+190.00
+tax
+9500 19000 sr
+total inclucding gst
+0.00
+rounding adj.
+43300 selangor
+fax : 03-89586342
+190.00
+190.00
+sharkatkamlai seong sdn bhd 1co
+total
+extra disc (0.00%)
+terdered
+date: 08 03-2008 0501 12 pm
+e(rm) (rm) cod
+cpened by : admn
+tel : 03-89486342
+itemcount
+item
+gst summary amount
+discount
+: 08-mar-18
+190.00
+insert bv admin
+gst(6.00%)
+vs-wew
+sr(6.00%)
+print
+gst reg. no. 001632722944
+qty upric total tax
+0.00
+no 96156p
+open item 2
+total :
+(invoice no.: inv-37002)
+zinc
+51t nippon
+10.75
+chromate

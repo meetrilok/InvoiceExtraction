@@ -1,0 +1,41 @@
+14/01/2018 05:03:35 pm
+750.00
+creditcard
+qty
+tax(rm)
+707.55
+t01
+sub total (exclusive gst) :
+rounded total (rm):
+gst reg: 000397606912
+gst 6% :
+ u.price dus amount tax
+tax invoice
+pavilion kuala lumpur.
+florism de art (940075-x)
+55100 kuala lumpur malaysia
+750.00 sr
+rm code
+open
+0.00
+lot 2.70.00 level 2
+160jalan bukit bintang
+ promoter :
+707.55
+ cashier :
+member
+ rounding adj. :
+750.00
+date:
+ debtor :
+1no : 750.00
+tel: 03-2142 3855
+ admin
+rm
+desc
+docutment no.: t01005445
+terminal :
+42.45
+42.45
+gst summary  amount(rm)
+sr @ 6 %

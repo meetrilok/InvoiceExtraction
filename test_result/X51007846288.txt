@@ -1,0 +1,36 @@
+/060/
+like and follow us on facebook!
+total amount: rm7.25
+unihakka international sdn bhd
+bar wang rice@permas jaya
+amount(rm)
+tax(rm)
+invoice# : or18060602160364
+12 jalan tampi 7/4kawasan perndustrian
+gst reg #000656195584
+rm6.69
+item
+ rm0.56
+(867388-u)
+tampoi31200 johorbahrujohor
+ cash 
+sr i00100000064-add vegetable
+gst @0%: rm0.00
+: payment mode :
+ tax invoice
+rm6.69
+net total: rm7.25
+thank you & come again!
+amount
+sr i0010000035-1 meat + 3 vege
+gst summary
+ rm0.56
+sr = gst @0%
+qty /.
+: change
+:06 jun 2018 18:24
+ rm7.25
+rm0.00
+total
+facebook.com/barwangrice
+:725

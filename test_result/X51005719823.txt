@@ -1,0 +1,52 @@
+change
+3.00 12.00 z
+masier
+amount : tax/amt
+cash
+cashier : c2
+receipt #: cs012368 date: 29/01/2018
+no.47 jalan 3/36
+item
+0.00
+goods sold are wot returnable
+kepong 52100 kuala lumpur
+s"
+1188096-
+simplified tax invoice
+rounding
+aa pharmacy
+1.26
+94015 
+disc
+sub-total 44.94
+total
+ibuprofen film coated tab
+total quantity
+gst
+gst no: 001930047488
+tax total:
+l2e
+qty u/p amount
+1.26
+0.0
+pk
+vs0o0x
+14
+tel: 03-8263 8480 fay: 03-6263 8480
+0.00
+24.00
+46.20
+6 349 20.94 9
+3.00 12.00 z
+0.00.
+thank you.
+gst summary
+4829
+20.94
+noflux tablet
+s=standard rated. 2=zero rated
+code
+isri bintang
+9556492002837
+salesperson : c2 time: 12:0:00
+zrl

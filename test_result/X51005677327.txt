@@ -1,0 +1,49 @@
+2.04
+2.04j
+gst summary
+34.00
+total :
+36.04
+36.04
+discount :
+34.00
+36.04
+gst id : 000750673920
+0.00
+total gst
+change :
+cs00013076 dale 01022018
+simplified tax invoice
+3604 sr
+total sales (excluding gst) :
+34.00
+user
+iaxcode ) amlira jayirad
+setapak
+syarikat perniagaan gin kee
+cash :
+2.04
+53200 kuala lumpur.
+2430
+total qty: 2
+cement (50kg)
+ref. :
+no 290 jalan air panas
+cash
+total sales (inclusive of gst) :
+ sr
+2 18.02
+item
+salesperson
+qhy spige amount tax
+(81109-a)
+tel : 03-40210276
+cashier
+6
+time: 09 38:00
+rounding :
+a lo alg
+goods soldare not returnable thank you
+doc no
+0.00
+0.00

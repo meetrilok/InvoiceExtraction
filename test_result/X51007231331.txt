@@ -1,0 +1,47 @@
+$1.10
+change
+$1.10
+12jalan tampa 7/4kawasan peridustrian.
+total
+invoice # : or18051102160270
+payment mode
+$0.00
+sr i00100000004- egg
+$1.10
+sr i00100000015- vegetable
+$1.10
+cash
+total amount: $7.80
+item
+sr i00100000065-add meats
+$2.00
+$2.70
+$2.70
+$0.90
+qty
+$0.90
+unihakka international sdn bhd
+gst reg #00065: *95584
+11 may 2018 18:54
+amount
+gst @6%: $0.44
+0.44
+$7.80
+sr i00100000001- chicken
+nett total: $7.80
+aosd49
+$2.00
+amount($)
+tax invoice
+thank you & come again!
+(867388-u)
+tax($)
+7 36
+facebook.com/barwangrice
+sr = gst @6%
+bar wang rice@plrmas jaya
+tampoi81200 johor bahujohor
+likeand follow us on facebook!
+gst summary
+(price inclusive of gst)
+sr i0010000056-friednoodle(s)

@@ -1,0 +1,34 @@
+restoran wan sheng
+seksyen 9 bandar mahkota cheras
+tax invoice
+6.81
+take away
+2x 220 440 sr
+cham (b)
+10-03-2018 16:01:37
+gst reg no: 001335787520
+description oty uorde total tay
+cash :
+7.20
+0.39
+0.39
+total qty: 6
+sr
+3x 0.20 0.60 sr
+7.20
+date
+inv no.: 1037698 cashier: wiole
+gst summary
+gst payable (6%):
+total:
+teh (b)
+total (excluding gst):
+002043319-w
+7.20
+total (inclusive of gst):
+1x 220 2.20 sr
+no.2 jalan temenggung 19/9
+43200 cheras selangor
+amount(rm) tax(rm)
+(@ 6%)
+6.81

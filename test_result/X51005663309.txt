@@ -1,0 +1,38 @@
+ash
+5:55
+42504769 fax: 03-82504769
+gst no: 001117650944
+15.20
+rounding 0.0d
+10 0.53 530 s
+code
+disc
+no. 939 batu lima
+goods sold are wot returnable
+ital an ipoh.
+sr:suga bag
+receipt #: c9004934 date: 01/02/2018
+cash
+3674
+tax total: io.jol
+tax invoice
+cashier : user
+sr
+tel: 03-42504769 fax: 03-62504768
+amount : tax/amt
+total quantity 
+gst 0.30
+item
+1502665-p
+ehange
+thank you.
+10
+gst summary
+0.30
+51200 kuala lumpur.
+0.00
+5.00
+total
+al 601s
+qty u/p amount
+koh seng hardware

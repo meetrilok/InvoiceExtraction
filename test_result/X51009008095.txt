@@ -1,0 +1,37 @@
+(rm)i
+total amt incl. gst @ 6%:
+tape @ 2.50
+12 30.00 sp
+0.00
+total qty tender:
+total amt payable:
+(rm))
+31.80
+no. : cs180319-0015
+2/16 seksyen 2
+0.00
+gst id : 001005957120
+ gst summary amount
+31.80
+12 jalan bunga tanjung
+deposit:
+1 sr @ 6%
+19/03/2018 1:01:43 pm
+31.80
+qy rm tax
+1.80 :
+tel:03:5519 0829 fax: 03:5519 0823
+tax :
+1.801
+: total
+40000 shahalam selangor
+roundingadjustment:
+goods sold are not returnable
+boon seng paper sdn bhd (28717-w)
+change:
+12
+30.00
+tax invoice
+30.00
+paid amount:
+thank you

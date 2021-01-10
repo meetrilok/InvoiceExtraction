@@ -1,0 +1,37 @@
+(@0%)
+thong recipe
+16 blok 8 zenith corporate park
+49.90 sr
+100.00
+petaling jaya selangor
+amount(rm)
+58.70
+tax(rm)
+jalan ss7/26 47301
+qpvo 5%
+5y
+tax invoice
+set c rm49.90
+0.00
+55.90
+2.80
+tel 03-7886 4877
+: payment details -
+gst summary
+27/06/18
+sr
+27/06/18 14:30 #001-1112563#*
+subtotal:
+55.90
+please come again
+thank you
+cash
+ winnie
+3 hebal tea /barliwaou 6.00 sr
+item count
+41.30
+cashier : winnie
+ orderno#001-1112563
+total:
+gst no: 001076076544
+cash change

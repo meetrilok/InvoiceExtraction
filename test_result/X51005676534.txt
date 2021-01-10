@@ -1,0 +1,58 @@
+change 
+72.08
+simplified tax invoice
+1 gst summary
+time: 17:08:00
+salesperson
+72.08
+72.08
+total sales (inclusive of gst)
+qy sipic amgunt tax
+cash
+2332 sr
+cs 200a cutting wheel
+68.00
+53200 kuala lumpur.
+item
+10.60 sr
+3313
+3032
+user
+68.00
+goods sold arenot returnable thank you.
+cash
+68.00
+total :
+cs00012524 dale 03012018
+3816 sr
+discount:
+total gst :
+amt(rm) iax(rm)
+1512
+doc no.
+cashier
+no 290 jalan air panas
+19.08
+%
+setapak
+face mask
+4.08
+tel : 03-40210276
+1 sr
+4.08
+104 cotton glove (dozen)
+0.00
+total qty: 4
+total sales (excluding gst)
+0.00
+rounding
+g 12.01 00t
+syarikat pernmagaan gin kee
+1 10.60
+4.08
+1 2332"
+gst id: 000750673920
+(81109-a)
+0.00
+1 iax code
+ref. :

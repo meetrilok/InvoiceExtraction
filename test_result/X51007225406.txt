@@ -1,0 +1,44 @@
+hank you.
+/p::
+qty code&desc
+cb# : 212039
+cashier : manager
+@price total
+23.49
+05/apr2018 124911pm
+sr 6%
+cash
+change:
+tax invoice
+gst summary
+goods sold non neturnal
+total inclusive gst
+03-5635 1892/03-56116279
+code
+23.49
+gst 6%
+1877 1877 sr
+2.36
+rounding adj :
+00
+10
+gst reg: 001123352576
+please come again.
+total
+b12 jalanss 15/4d
+24.90
+l/ra
+4.72 sr
+0.00
+2266
+1.41
+1.41
+2 subtotal 2349
+2 347959
+1.41
+unipharm pharmacy .
+dressing sets 3 forcep
+amount (myr) gst (myr)
+3 type:
+47500 subang jaya
+burnsheld hyorogel 25#l
